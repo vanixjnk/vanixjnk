@@ -7,7 +7,7 @@ I’m a **Frontend Developer** passionate about building beautiful and functiona
 ## 🌟 Technologies I Work With:
 
 ### Frontend:
-![FE](https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs)  
+![FE](https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,tailwind,css,scss)  
 
 ### Backend:
 ![BE](https://skillicons.dev/icons?i=nodejs,php,laravel)  
@@ -18,9 +18,12 @@ I’m a **Frontend Developer** passionate about building beautiful and functiona
 ### Real-time Communication:
 ![Socket.IO](https://skillicons.dev/icons?i=socketio)  
 
+### Programming Languages:
+![Languages](https://skillicons.dev/icons?i=js,ts,python,cpp)  
+
 ---
 
 ## 💻 Connect with me!
-- 🌐 [GitHub](https://github.com/vanixjnk) 
-- 🌐 [Facebook](https://facebook.com/vanixjnk)
-- 🌐 [Instagram](https://facebook.com/instagram)
+- 🌐 [GitHub](https://github.com/vanixjnk)  
+- 🌐 [Facebook](https://facebook.com/vanixjnk)  
+- 🌐 [Instagram](https://instagram.com/vanixjnk)  

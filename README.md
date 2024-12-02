@@ -7,19 +7,13 @@ I’m a **Frontend Developer** passionate about building beautiful and functiona
 ## 🌟 Technologies I Work With:
 
 ### Frontend:
-![Next.js](https://skillicons.dev/icons?i=nextjs)  
-![React](https://skillicons.dev/icons?i=react)  
-![Vue.js](https://skillicons.dev/icons?i=vue)  
-![Nuxt.js](https://skillicons.dev/icons?i=nuxtjs)  
+![FE](https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs)  
 
 ### Backend:
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![PHP](https://skillicons.dev/icons?i=php)  
-![Laravel](https://skillicons.dev/icons?i=laravel)  
+![BE](https://skillicons.dev/icons?i=nodejs,php,laravel)  
 
 ### Databases:
-![MySQL](https://skillicons.dev/icons?i=mysql)  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)  
+![DB](https://skillicons.dev/icons?i=mysql,mongodb)  
 
 ### Real-time Communication:
 ![Socket.IO](https://skillicons.dev/icons?i=socketio)  

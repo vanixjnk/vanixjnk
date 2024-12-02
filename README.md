@@ -7,16 +7,16 @@ I’m a **Frontend Developer** passionate about building beautiful and functiona
 ## 🌟 Technologies I Work With:
 
 ### Frontend:
-![FE](https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,tailwind,css,scss)  
+![FE](https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,tailwind,css,scss,bootstrap,html,threejs)  
 
 ### Backend:
-![BE](https://skillicons.dev/icons?i=nodejs,php,laravel)  
+![BE](https://skillicons.dev/icons?i=nodejs,php,laravel,nginx)  
 
 ### Databases:
-![DB](https://skillicons.dev/icons?i=mysql,mongodb)  
+![DB](https://skillicons.dev/icons?i=mysql,mongodb,firebase)  
 
-### Real-time Communication:
-![Socket.IO](https://skillicons.dev/icons?i=socketio)  
+### Tools & Platforms:
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode)  
 
 ### Programming Languages:
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,cpp)  
